@@ -13,7 +13,11 @@ A simple calculator web app with a glass effect and soft-looking keys. Perform b
 
 ## 🛠️ Usage
 
-1. Clone this repository: 'git clone https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io'
+1. Clone this repository: 
+```bash 
+
+git clone https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io
+   ```
 2. Open the `index.html` file in your browser.
 
 ## 🧰 Technologies Used
