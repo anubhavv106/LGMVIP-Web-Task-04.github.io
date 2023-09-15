@@ -26,7 +26,9 @@ git clone https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io
 - CSS
 - JavaScript
 
-## 📹 Demo Video
+## 🎥 Demo Video
+
+https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io/assets/112748712/b4747e58-efd7-4141-b990-cd288f4261d4
 
 ## 📝 License
 
