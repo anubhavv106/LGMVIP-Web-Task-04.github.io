@@ -26,6 +26,8 @@ git clone https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io
 - CSS
 - JavaScript
 
+## 📹 Demo Video
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
