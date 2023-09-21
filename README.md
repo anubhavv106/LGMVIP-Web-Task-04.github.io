@@ -1,5 +1,4 @@
-
-# Calculator Project
+# Calculator
 
 A simple calculator web app with a glass effect and soft-looking keys. Perform basic arithmetic operations right in your browser!
 
